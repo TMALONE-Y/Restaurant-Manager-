@@ -47,4 +47,4 @@ This project demonstrates clean coding practices and fundamental software engine
 1. **Prerequisites:** Ensure you have Python 3.x installed.
 2. **Clone the Project:**
    ```bash
-   git clone [https://github.com/TMALONE-Y/Restaurant-Manager-.git](https://github.com/TMALONE-Y/Restaurant-Manager-.git)
+   git clone [https://github.com/TMALONE-Y/Restaurant-Manager-.git]
