@@ -1,3 +1,7 @@
+<<p align="center">
+  <img src="Restaurant Manager Preview.png" width="100%" alt="Restaurant Management System Preview">
+</p>
+
 # 🍴 Multi-Owner Restaurant Management System 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
@@ -38,6 +42,8 @@ This project demonstrates clean coding practices and fundamental software engine
 ## 👨‍💻 Developer Profile
 
 **Yazan Abushreefih**
+
+> *Data Science Student | Building efficient and scalable software solutions.*
 > *Focused on building scalable and efficient software solutions.*
 
 ---
