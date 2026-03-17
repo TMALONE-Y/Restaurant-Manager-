@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ Course\\Restaurant Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3B250A-0162-4F16-B4C8-937C64A43876}|Restaurant Manager.pyproj|C:\\Users\\Lenovo\\Desktop\\ Course\\Restaurant Manager\\Restaurant_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA3B250A-0162-4F16-B4C8-937C64A43876}|Restaurant Manager.pyproj|solutionrelative:Restaurant_Manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurant_Manager.py",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ Course\\Restaurant Manager\\Restaurant_Manager.py",
+              "RelativeDocumentMoniker": "Restaurant_Manager.py",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ Course\\Restaurant Manager\\Restaurant_Manager.py",
+              "RelativeToolTip": "Restaurant_Manager.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-10T12:28:16.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
